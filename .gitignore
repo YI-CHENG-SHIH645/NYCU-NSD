@@ -1,0 +1,8 @@
+.vscode/
+**/.DS_Store
+.idea/
+__pycache__/
+contrib
+proposal
+**/*.Key
+cmake-build-debug/

@@ -1,0 +1,22 @@
+read as a vector of triplets (train) ... 3.87028 sec
+Init SP matrix (alloc & set) ... 0.195668 sec
+
+# readers (rows m) : 99225 , # books (cols n) : 320283
+# non zero element: 1034802
+density = 0.000603274
+
+read as a vector of triplets (test) ... 0.282483 sec
+length of test data : 114978
+calculate weighted sum of top k item vectors ... 0.401231 sec
+# non-zero score recommendation items : 2166
+top n recommendation items for the given user : result_n=2166
+0836218833 : 10
+0553572369 : 8
+0316666343 : 4.86316
+0060096195 : 1
+0140621741 : 1
+0316781266 : 1
+044020562X : 1
+0446364193 : 1
+0449217264 : 1
+0786817070 : 1

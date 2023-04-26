@@ -1,0 +1,13 @@
+# Builds
+build/
+
+# Google Tests
+Testing/
+
+# Jet Brains
+.idea/
+cmake-build-debug/
+.DS_Store
+
+**/*.icloud
+.ipynb_checkpoints/
